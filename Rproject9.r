@@ -1,3 +1,4 @@
+#first load this all libaries to authentication of twitter or visualisation of the data 
 library(ROAuth)
 library(twitteR)
 library(base64enc)
@@ -26,6 +27,7 @@ library ("httr")
 library ("httpuv")
 library("NLP")
 download.file(url="http://curl.haxx.se/ca/cacert.pem",destfile="cacert.pem")
+#put Your own keys here that you can get from twitter developer account from twitter api ok do that
 consumerKey <- "qGA23jQZUjiU1RbnSXjgeyPEJ"
 consumerSecret <- ""
 accessToken <- "902905259231633408-NuPAgsM6UerXJUZYDPkhXqPQuELDLkX"
