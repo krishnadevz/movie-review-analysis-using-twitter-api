@@ -21,3 +21,7 @@ hello githubers this project is all about the analyzing movie using twitter api 
 # And in the last in code section you get short commented description of project hope you read that carefully 
 
 # Thank you Hope You understand Stay Tuned.
+
+## Author
+
+* **Krishna kakade**  - [krishnakakade1999](https://github.com/krishnakakade1999)
