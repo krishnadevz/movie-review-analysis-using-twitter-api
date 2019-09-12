@@ -11,7 +11,7 @@ hello githubers this project is all about the analyzing movie using twitter api 
 
 3.And before that you need to install all the libraries for all twitter functions can work ok  
 
-#In this project i am using twitter own algorithm for generating the result you can tell anyone about that if he/she ask about which algorithm ok
+# In this project i am using twitter own algorithm for generating the result you can tell anyone about that if he/she ask about which algorithm ok
 
 4.then you to search live tweets using <b>Searchtwitter</b> function hopefully you gonna read that code carefully ok
 
