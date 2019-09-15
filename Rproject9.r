@@ -28,10 +28,10 @@ library ("httpuv")
 library("NLP")
 download.file(url="http://curl.haxx.se/ca/cacert.pem",destfile="cacert.pem")
 #put Your own keys here that you can get from twitter developer account from twitter api ok do that
-consumerKey <- "qGA23jQZUjiU1RbnSXjgeyPEJ"
+consumerKey <- ""
 consumerSecret <- ""
-accessToken <- "902905259231633408-NuPAgsM6UerXJUZYDPkhXqPQuELDLkX"
-accessTokenSecret <- "LERsXQdoyAeZiWOStHSOA2PkFvhxRDbisPK9DngfaQ4Uc"
+accessToken <- ""
+accessTokenSecret <- ""
 
 setup_twitter_oauth(consumerKey, consumerSecret, accessToken, accessTokenSecret)
 Avengers=searchTwitter("Avengers",n=100,lang="en")
