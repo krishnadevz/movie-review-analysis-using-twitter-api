@@ -30,4 +30,4 @@ hello githubers this project is all about the analyzing movie using twitter api 
 
 ## Author
 
-* **Krishna kakade**  - [krishnakakade1999](https://github.com/krishnakakade1999)
+* **Krishna kakade**  - [krishnadevz](https://github.com/krishnadevz)
